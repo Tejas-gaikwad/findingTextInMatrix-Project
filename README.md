@@ -1,16 +1,11 @@
-# mobigic_task
+* In this project user can add m number of columns and n number of rows. 
+* Using this data there will be one matrix get created. 
+* User has to enter single alphabet for every position in matrix. 
+* After giving every alphabet user can got to main screen where user can see the matrix of single characters. 
+* Now user can give one text input which can be then searched in matrix, if there is any occurences of same text that blocks get highlighted in green color blocks.
+* User can then search text in right to left and left to right manner.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/46574484/220276194-1459c4be-58b3-41e9-adbb-fe56cffb5558.png)
+![image](https://user-images.githubusercontent.com/46574484/220276492-565b32d9-7793-44f2-8180-381c1b0db847.png)
+![image](https://user-images.githubusercontent.com/46574484/220276433-af60ab46-a5ac-4036-98b2-fecd680d856d.png)
+![image](https://user-images.githubusercontent.com/46574484/220276835-5e1a2c49-ec54-43a0-aab2-db9a8e5d5e04.png)
